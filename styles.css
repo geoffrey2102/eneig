@@ -133,7 +133,7 @@ nav a:hover { color: var(--primary-color); }
 /* Hero Section */
 .hero {
     position: relative;
-    background: linear-gradient(to right, #001f4c 10%, transparent 50%), url('imagenes/fondo.webp') no-repeat center center/cover;
+    background: linear-gradient(to right, #001f4c 10%, transparent 50%), url('imagenes/fondo2.webp') no-repeat center center/cover;
     padding: 140px 0;
     color: #fff;
     min-height: 600px;
